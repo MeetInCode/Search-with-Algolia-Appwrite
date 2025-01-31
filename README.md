@@ -9,3 +9,8 @@
 NOW MAKE A POST REQUEST FROM EXECUTIONS IN THAT FUNCTION AND THEN VISIT THAT CREATED DOMAIN AND CONVERT THE HTML CODE INTO A REACT COMPONENT
 LIKE DONE IN app/users/page.tsx
 ![image](https://github.com/user-attachments/assets/fa6d1840-65ef-4b56-a3f3-b0d02dbba315)
+
+
+
+https://github.com/user-attachments/assets/39eb3713-3f87-4eca-b076-fb4ce7d38224
+
